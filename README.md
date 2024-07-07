@@ -2,10 +2,9 @@
 All the manual testing projects with documents.
 
 
-Project #1 - Testcase and Testplan for App.vwo.com
-Testplan
-Testcases
+Project #1 - testcases for CCD coffee machine
 
 
-https://drive.google.com/drive/folders/11eAx342NHP1NGiqD_yQMAqfkZkbIjzNR
-![Screenshot 2024-07-07 195923](https://github.com/Vinaykrishna0504/SoftwareTestingProjects/assets/174891449/4e782c21-0b74-457d-85ff-9be3c9b9ff86)
+https://docs.google.com/spreadsheets/d/1csec0ibJOZy1Mv37CDJ6taZeNTeBgvj_/edit?gid=1392612139#gid=1392612139
+![Screenshot 2024-07-07 204505](https://github.com/Vinaykrishna0504/SoftwareTestingProjects/assets/174891449/a5339fb3-b544-4e6f-aeca-fcf71378068c)
+
